@@ -1,2 +1,4 @@
 This is a weird workflow. The class is weird for introducing git at this juncture. Although I needed a break from the challenges lol 
-
+explaining the staging area, I am taking notes, but I used the staging area to parse my commits however I want. 
+hence this commit. I was trying to show them to start with git, but they were focused on whatever. They were focused on code, creating it but not really understanding it. 
+Not understanding how to use code. They just believed in code itself not as a tool. But it is a tool for software development, one of many. And it is dangerous to pretend that the only thing that matters is what the coder brings to the table. You are missing a ton of infrastructure and you demand the same result as those who do take the time to create the kind of environment necessary.
