@@ -1,1 +1,6 @@
 This git demo is terrible. Nothing like tim Burgland's git demo. Find the well known version of the chapter of the course your are watching.
+Let's make that werd commit. But we are continuing the conversation of interest. 
+You don't have the planning, you don't have the architecture in place. You can't deploy properly and yet you insist on being the professional.
+Like it is 1994, you think coding gotcha's are sign of skills, while failing at the basics of todays standards. The ones that are clearly absent from your solution. The ones that requires you to want me to sacrifice my career for this thing that you are doing. In 2021, we are supposed to move pass, static class injection and misunderstanding of architecture. 
+Stunted growth, arrested development. 
+
